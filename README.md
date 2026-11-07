@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./media/CommitlyLogo.png" width="600">
+  <img src="./media/CommitlyLogo.png" alt="Commitly" width="600">
 </p>
